@@ -6,7 +6,7 @@ This project is a UI/UX implementation of the chatbot setup workflow for BeyondC
 3. **Chatbot Integration & Testing**
 
 ## Live Demo
-[View Live Demo](https://beyondchats-ui.vercel.app)
+[View Live Demo]((https://chat-bot-ass.vercel.app/))
 
 ## Features
 - Mobile-responsive design.
